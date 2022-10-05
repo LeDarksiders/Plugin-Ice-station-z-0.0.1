@@ -1,3 +1,2 @@
-Premiere version du plugin ice station dont les code ont largement était dépasser par les nouveau.
-Modifier les a votre guise
-
+First version of the ice station plugin whose code was largely overtaken by the new ones.
+Modify them as you wish
